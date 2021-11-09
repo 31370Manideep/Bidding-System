@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Bidding-System/static/css/main.1f91a93d.chunk.css",
+    "main.js": "/Bidding-System/static/js/main.5d91284e.chunk.js",
+    "main.js.map": "/Bidding-System/static/js/main.5d91284e.chunk.js.map",
+    "runtime-main.js": "/Bidding-System/static/js/runtime-main.36730c05.js",
+    "runtime-main.js.map": "/Bidding-System/static/js/runtime-main.36730c05.js.map",
+    "static/js/2.ba9e9fdb.chunk.js": "/Bidding-System/static/js/2.ba9e9fdb.chunk.js",
+    "static/js/2.ba9e9fdb.chunk.js.map": "/Bidding-System/static/js/2.ba9e9fdb.chunk.js.map",
+    "static/js/3.eeb839df.chunk.js": "/Bidding-System/static/js/3.eeb839df.chunk.js",
+    "static/js/3.eeb839df.chunk.js.map": "/Bidding-System/static/js/3.eeb839df.chunk.js.map",
+    "index.html": "/Bidding-System/index.html",
+    "static/css/main.1f91a93d.chunk.css.map": "/Bidding-System/static/css/main.1f91a93d.chunk.css.map",
+    "static/js/2.ba9e9fdb.chunk.js.LICENSE.txt": "/Bidding-System/static/js/2.ba9e9fdb.chunk.js.LICENSE.txt",
+    "static/media/auction-hammer.989aeabd.png": "/Bidding-System/static/media/auction-hammer.989aeabd.png",
+    "static/media/logo.6ce24c58.svg": "/Bidding-System/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36730c05.js",
+    "static/js/2.ba9e9fdb.chunk.js",
+    "static/css/main.1f91a93d.chunk.css",
+    "static/js/main.5d91284e.chunk.js"
+  ]
+}
